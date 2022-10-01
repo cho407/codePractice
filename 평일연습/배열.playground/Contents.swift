@@ -57,3 +57,5 @@ let nextTeamFavoriteArtist = [
 ]
 
 let nextTemaDictionary = Dictionary(uniqueKeysWithValues: zip(nextTeamNameArray, nextTeamFavoriteArtist))
+
+//수정할게 많음
